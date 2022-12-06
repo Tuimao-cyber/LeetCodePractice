@@ -1,14 +1,14 @@
 //
-//  LeetCodeTests.swift
-//  LeetCodeTests
+//  LeetCodePracticeTests.swift
+//  LeetCodePracticeTests
 //
 //  Created by Hosea H C Li on 2022/12/6.
 //
 
 import XCTest
-@testable import LeetCode
+@testable import LeetCodePractice
 
-class LeetCodeTests: XCTestCase {
+class LeetCodePracticeTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
